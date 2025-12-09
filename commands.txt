@@ -1,0 +1,11 @@
+git init : initialize a git file
+git add : used to stage the untracked files
+git commit -m "xyz" : to commit the changes
+git status : to check the status of files
+git log : to check the history
+rm -rf filename : used to delete a file
+git stash : keeping the files saved without commiting them(backstage)
+git stash clear : clearing the stash
+git stash pop : staging the stashed files
+git reset commitcode : to go back to particular commit
+

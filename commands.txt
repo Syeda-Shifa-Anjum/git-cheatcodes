@@ -8,4 +8,10 @@ git stash : keeping the files saved without commiting them(backstage)
 git stash clear : clearing the stash
 git stash pop : staging the stashed files
 git reset commitcode : to go back to particular commit
+git remote add origin Url 
+git remote -v
+git push origin main/branch_name
+git branch branch_name
+git checkout branch_name
+git push origin branch_name -f : this is to force push 
 

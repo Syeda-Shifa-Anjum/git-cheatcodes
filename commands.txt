@@ -14,5 +14,3 @@ git push origin main/branch_name
 git branch branch_name
 git checkout branch_name
 git push origin branch_name -f : this is to force push 
-
------------COMMANDS-LIST1-------------
